@@ -1,1 +1,1 @@
-# -demo_kubernetes_components
+# demo_kubernetes_components
