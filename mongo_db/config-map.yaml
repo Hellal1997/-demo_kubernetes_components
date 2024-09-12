@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: my-project
+  namespace: mongodb
+data:
+  baseUrl: https://cloud.mongodb.com
+  projectName: mohamed hellal # this is an optional parameter
+  orgId: 66e14e995613597fbaeb468e # this is a required parameter
+
